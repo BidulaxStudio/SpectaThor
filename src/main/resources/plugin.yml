@@ -1,0 +1,5 @@
+name: SpectaThor
+version: 1.16
+main: eu.bidulaxstudio.spectathor.SpectaThor
+api-version: 1.16
+description: Hide players in spectator mode
